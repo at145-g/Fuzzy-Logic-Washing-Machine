@@ -58,6 +58,15 @@ This project implements a fuzzy logic system to determine the washing machine cy
 
 ![Output](Screenshots/q1_rules_output.png)
 
+## Report
+[View Report](report/Q1_Report.pdf)
+
+
+## How to Run
+1. Open MATLAB
+2. Run Q1.m
+3. Open Rule Viewer to test inputs
+
 
 ## Tools Used
 
